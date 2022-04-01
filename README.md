@@ -1,6 +1,6 @@
 # socket-communication-with-compression
 
-a simple socket program to send compressed object.
+a simple socket program to send compressed python object.
 
 server_loop_compression.py act as a Server.
 client_loop_compression.py act as a Client.
